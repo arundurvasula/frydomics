@@ -7,4 +7,4 @@ We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html)
 
 # Papers:
 
-April 7th, 2017: Poplin et al: [Creating a universal SNP and small indel variant caller with deep neural networks](http://biorxiv.org/content/early/2016/12/21/092890)
+April 7th, 2017: [Poplin et al 2016. Creating a universal SNP and small indel variant caller with deep neural networks](http://biorxiv.org/content/early/2016/12/21/092890)
