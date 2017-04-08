@@ -1,4 +1,4 @@
-# fridayomics
+# frydomics
 A journal club for -omicsy things @ UCLA. Send me a paper if you'd like to suggest one, otherwise I will choose. 
 
 We meet at [Wolfgang Puck's](https://wolfgangpuck.com/dining/wolfgang-puck-express-los-angeles/) Fridays at 5 for beer and science. Feel free to stop by.
