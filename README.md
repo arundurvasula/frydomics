@@ -7,6 +7,8 @@ We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html)
 
 # Papers:
 
+April 28th, 2017 [https://www.nature.com/nature/journal/v544/n7649/full/nature22034.html]() [blame ALEX]
+
 April 21st, 2017 [Liu et al 2017. Functional Architectures of Local and Distal Regulation of Gene Expression in Multiple Human Tissues.](https://www.ncbi.nlm.nih.gov/pubmed/28343628) [blame James]
 
 April 14th, 2017: [Chiang et al 2017. The impact of structural variation on human gene expression](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3834.html) [blame Colin]
