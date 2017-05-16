@@ -7,6 +7,8 @@ We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html)
 
 # Papers:
 
+May 19th, 2017 No journal club -- go to Brewin' Talks! [blame Catharine]
+
 May 12th, 2017 [Pala and Zappala et al 2017. Population- and individual-specific regulatory variation in Sardinia](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3840.html) [blame Arun]
 
 May 5th, 2017 [Corces et al 2017. Lineage-specific and single-cell chromatin accessibility charts human hematopoiesis and leukemia evolution](https://www.nature.com/ng/journal/v48/n10/full/ng.3646.html) [blame Mike]
