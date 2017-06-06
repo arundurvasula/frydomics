@@ -6,6 +6,8 @@ We meet at [the Hammer Museum cafe](https://hammer.ucla.edu/ammo/) Fridays at 5:
 We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html), please check there for information on the format. 
 
 # Papers:
+June 9th, 2017 [Glodzik et al 2017. A somatic-mutational process recurrently duplicates germline susceptibility loci and tissue-specific super-enhancers in breast cancers](http://www.nature.com/ng/journal/v49/n3/abs/ng.3771.html) [blame Mike]
+
 June 2nd, 2017 [Knouse et al 2016. Assessment of megabase-scale somatic copy number variation using single cell sequencing](http://genome.cshlp.org/content/26/3/376) [blame Daniel] 
 
 May 25th, 2017 [Mathieson et al 2015. Genome-wide patterns of selection in 230 ancient Eurasians](https://www.nature.com/nature/journal/v528/n7583/full/nature16152.html) [blame Arun] **Note: date change**
