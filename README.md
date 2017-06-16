@@ -6,6 +6,11 @@ We meet at [the Hammer Museum cafe](https://hammer.ucla.edu/ammo/) Fridays at 5:
 We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html), please check there for information on the format. 
 
 # Papers:
+June 23rd, 2017 [Boyle et al 2017. An Expanded View of Complex Traits: From Polygenic to Omnigenic](http://www.sciencedirect.com/science/article/pii/S0092867417306293) [blame Catharine, James, Arun]
+
+- Bonus: [Goldstein 2009. Common Genetic Variation and Human Traits](http://www.nejm.org/doi/full/10.1056/NEJMp0806284) [blame James, Arun]
+- Bonus: [Rockman 2012. The QTN program and the alleles that matter for evolution: all that's gold does not glitter](http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2011.01486.x/abstract) [blame Arun]
+
 June 16th, 2017 [McLaughlin et al 2017. Genetic correlation between amyotrophic lateral sclerosis and schizophrenia](http://www.nature.com/articles/ncomms14774) [blame Alex]
 
 June 9th, 2017 [Glodzik et al 2017. A somatic-mutational process recurrently duplicates germline susceptibility loci and tissue-specific super-enhancers in breast cancers](http://www.nature.com/ng/journal/v49/n3/abs/ng.3771.html) [blame Mike]
