@@ -3,7 +3,7 @@ A journal club for -omicsy things @ UCLA. Send me a paper if you'd like to sugge
 
 We meet at [the Hammer Museum cafe](https://hammer.ucla.edu/ammo/) Fridays at 5:30 for beer and science (entrance is free). Feel free to stop by.
 
-We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html), please check there for information on the format. 
+We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html), please check there for information on the format. In short, no one presents the paper and we jump in as soon as the beers arrive.
 
 # Papers:
 June 23rd, 2017 [Boyle et al 2017. An Expanded View of Complex Traits: From Polygenic to Omnigenic](http://www.sciencedirect.com/science/article/pii/S0092867417306293) [blame Catharine, James, Arun]
