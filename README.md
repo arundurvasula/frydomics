@@ -1,7 +1,7 @@
 # frydomics
 A journal club for -omicsy things @ UCLA. Send me a paper if you'd like to suggest one, otherwise I will choose. 
 
-We meet at [the Hammer Museum cafe](https://hammer.ucla.edu/ammo/) Fridays at 5:30 for beer and science (entrance is free). Feel free to stop by.
+We meet at [the Hammer Museum cafe](https://hammer.ucla.edu/ammo/) Fridays at 5:30 for beer and science (entrance is free). If you're reading this, feel free to stop by.
 
 We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html), please check there for information on the format. In short, no one presents the paper and we jump in as soon as the beers arrive.
 
