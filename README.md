@@ -8,6 +8,7 @@ We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html)
 # Papers:
 
 ## June 
+June 30th, 2017 [Hammerschlag et al 2017.](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3888.html) Genome-wide association analysis of insomnia complaints identifies risk genes and genetic overlap with psychiatric and metabolic traits [blame Albert]
 
 June 23rd, 2017 [Boyle et al 2017.](http://www.sciencedirect.com/science/article/pii/S0092867417306293) An Expanded View of Complex Traits: From Polygenic to Omnigenic [blame Catharine, James, Arun]
 
