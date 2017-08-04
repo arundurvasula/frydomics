@@ -10,6 +10,9 @@ We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html)
 ## August
 August 4th, 2017 [Cortes and Dendrou et al 2017.](https://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3926.html) Bayesian analysis of genetic association across tree-structured routine healthcare data in the UK Biobank [blame Colin]
 
+## July
+No journal club -- go to [UCLA Computational Genomics Summer Institute](http://computationalgenomics.bioinformatics.ucla.edu) instead.
+
 ## June 
 June 30th, 2017 [Hammerschlag et al 2017.](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3888.html) Genome-wide association analysis of insomnia complaints identifies risk genes and genetic overlap with psychiatric and metabolic traits [blame Albert]
 
