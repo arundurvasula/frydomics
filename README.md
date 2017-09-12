@@ -5,6 +5,8 @@ We meet at [the Hammer Museum cafe](https://hammer.ucla.edu/ammo/) Fridays at 5:
 
 We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html), please check there for information on the format. In short, no one presents the paper and we jump in as soon as the beer arrives.
 
+We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics). Feel free to join or email me (firstname.lastname@gmail.com) for paper annoucements.
+
 # Papers:
 
 ## August
