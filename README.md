@@ -9,6 +9,9 @@ We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics)
 
 # Papers:
 
+## September
+September 15th, 2017 [Mostafavi et al 2017.](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002458) Identifying genetic variants that affect viability in large cohorts [blame Arun]
+
 ## August
 August 4th, 2017 [Cortes and Dendrou et al 2017.](https://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3926.html) Bayesian analysis of genetic association across tree-structured routine healthcare data in the UK Biobank [blame Colin]
 
