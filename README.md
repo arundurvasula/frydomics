@@ -10,6 +10,8 @@ We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics)
 # Papers:
 
 ## September
+September 21st, 2017 [Castel et al 2017.](http://www.biorxiv.org/content/early/2017/09/18/190397) Modified penetrance of coding variants by cis-regulatory variation shapes human traits [blame James]
+
 September 15th, 2017 [Mostafavi et al 2017.](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2002458) Identifying genetic variants that affect viability in large cohorts [blame Arun]
 
 ## August
