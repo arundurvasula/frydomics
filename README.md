@@ -10,7 +10,9 @@ We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics)
 # Papers:
 
 ## October
-October 6th, 2017 [Garg et al 2017.](https://www.biorxiv.org/content/early/2017/09/15/189704) A survey of DNA methylation polymorphism identifies environmentally responsive co-regulated networks of epigenetic variation in the human genome [blame Colin]
+October 13th, 2017 [Garg et al 2017.](https://www.biorxiv.org/content/early/2017/09/15/189704) A survey of DNA methylation polymorphism identifies environmentally responsive co-regulated networks of epigenetic variation in the human genome [blame Colin]
+
+October 6th, 2017 [Rubin, Barajas, and Furlan-Magaril et al 2017](https://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3935.html) Lineage-specific dynamic and pre-established enhancer–promoter contacts cooperate in terminal differentiation [blame James]
 
 ## September
 September 29th, 2017 [Lareau and Aryee 2017.](https://www.biorxiv.org/content/early/2016/12/24/087338) diffloop: a computational framework for identifying and analyzing differential DNA loops from sequencing data [blame Katie]
