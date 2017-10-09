@@ -10,7 +10,7 @@ We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics)
 # Papers:
 
 ## October
-October 13th, 2017 [Garg et al 2017.](https://www.biorxiv.org/content/early/2017/09/15/189704) A survey of DNA methylation polymorphism identifies environmentally responsive co-regulated networks of epigenetic variation in the human genome [blame Colin]
+October 13th, 2017 [Weissensteiner et al 2017.](http://genome.cshlp.org/content/27/5/697) Combination of short-read, long-read, and optical mapping assemblies reveals large-scale tandem repeat arrays with population genetic implications [blame Daniel]
 
 October 6th, 2017 [Rubin, Barajas, and Furlan-Magaril et al 2017.](https://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3935.html) Lineage-specific dynamic and pre-established enhancer–promoter contacts cooperate in terminal differentiation [blame James]
 
