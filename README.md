@@ -9,6 +9,9 @@ We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics)
 
 # Papers:
 
+## November
+November 3rd, 2017 [Raj et al 2017](https://www.biorxiv.org/content/early/2017/08/10/174565) Integrative analyses of splicing in the aging brain: role in susceptibility to Alzheimer's Disease [blame Yoni]
+
 ## October
 October 27th, 2017 [Ongen et al 2017.](https://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3981.html) Estimating the causal tissues for complex traits and diseases [blame Arun]
 
