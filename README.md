@@ -10,6 +10,8 @@ We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics)
 # Papers:
 
 ## October
+October 27th, 2017 [Ongen et al 2017.](https://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3981.html) Estimating the causal tissues for complex traits and diseases [blame Arun]
+
 October 20th, 2017 [He et al 2017.](http://www.cell.com/ajhg/fulltext/S0002-9297(17)30289-6) Unified Sequence-Based Association Tests Allowing for Multiple Functional Annotations and Meta-analysis of Noncoding Variation in Metabochip Data [blame Albert]
 
 October 13th, 2017 [Weissensteiner et al 2017.](http://genome.cshlp.org/content/27/5/697) Combination of short-read, long-read, and optical mapping assemblies reveals large-scale tandem repeat arrays with population genetic implications [blame Daniel]
