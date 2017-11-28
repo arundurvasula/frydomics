@@ -8,6 +8,8 @@ We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html)
 We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics). Feel free to join or email me (firstname.lastname@gmail.com) for paper annoucements.
 
 # Papers:
+## December
+December 8th, 2017 [Houshdaran et al 2016](https://academic.oup.com/biolreprod/article/95/5/93,%201-16/2883425) Aberrant Endometrial DNA Methylome and Associated Gene Expression in Women with Endometriosis [blame Katie]
 
 ## November
 November 17th, 2017 [Angermueller et al 2017](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1189-z) DeepCpG: accurate prediction of single-cell DNA methylation states using deep learning [blame Colin]
