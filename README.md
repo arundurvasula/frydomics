@@ -8,6 +8,9 @@ We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html)
 We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics). Feel free to join or email me (firstname.lastname@gmail.com) for paper annoucements.
 
 # Papers:
+## January
+January 12, 2018 [Hernandez et al 2017](https://www.biorxiv.org/content/early/2017/12/15/219238) Singleton Variants Dominate the Genetic Architecture of Human Gene Expression [blame Arun]
+
 ## December
 December 8th, 2017 [Houshdaran et al 2016](https://academic.oup.com/biolreprod/article/95/5/93,%201-16/2883425) Aberrant Endometrial DNA Methylome and Associated Gene Expression in Women with Endometriosis [blame Katie]
 
