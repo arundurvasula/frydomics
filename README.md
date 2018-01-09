@@ -9,7 +9,9 @@ We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics)
 
 # Papers:
 ## January
-January 12, 2018 [Hernandez et al 2017](https://www.biorxiv.org/content/early/2017/12/15/219238) Singleton Variants Dominate the Genetic Architecture of Human Gene Expression [blame Arun]
+January 19th, 2018 [Hernandez et al 2017](https://www.biorxiv.org/content/early/2017/12/15/219238) Singleton Variants Dominate the Genetic Architecture of Human Gene Expression [blame Arun]
+
+January 12th, 2018 [Mumbach, Satpathy, Boyle and Dai et al 2017](https://www.nature.com/articles/ng.3963) Enhancer connectome in primary human cells identifies target genes of disease-associated DNA elements [blame Mike]
 
 ## December
 December 8th, 2017 [Houshdaran et al 2016](https://academic.oup.com/biolreprod/article/95/5/93,%201-16/2883425) Aberrant Endometrial DNA Methylome and Associated Gene Expression in Women with Endometriosis [blame Katie]
