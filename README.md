@@ -8,6 +8,11 @@ We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html)
 We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics). Feel free to join or email me (firstname.lastname@gmail.com) for paper annoucements.
 
 # Papers:
+## February
+February 9th, 2018 [Combs et al 2017](http://onlinelibrary.wiley.com/doi/10.1111/mec.14437/abstract) Spatial population genomics of the brown rat (_Rattus norvegicus_) in New York City [blame Katie]
+
+February 2nd, 2018 TBA
+
 ## January
 January 26th, 2018 [Hernandez et al 2017](https://www.biorxiv.org/content/early/2017/12/15/219238) Singleton Variants Dominate the Genetic Architecture of Human Gene Expression [blame Arun]
 
