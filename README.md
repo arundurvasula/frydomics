@@ -11,7 +11,7 @@ We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics)
 ## February
 February 9th, 2018 [Combs et al 2017](http://onlinelibrary.wiley.com/doi/10.1111/mec.14437/abstract) Spatial population genomics of the brown rat (_Rattus norvegicus_) in New York City [blame Katie]
 
-February 2nd, 2018 TBA
+February 2nd, 2018 [Kong et al 2018](http://science.sciencemag.org/content/359/6374/424.full) The nature of nurture: Effects of parental genotypes [blame Yoni]
 
 ## January
 January 26th, 2018 [Hernandez et al 2017](https://www.biorxiv.org/content/early/2017/12/15/219238) Singleton Variants Dominate the Genetic Architecture of Human Gene Expression [blame Arun]
