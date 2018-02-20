@@ -9,6 +9,9 @@ We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics)
 
 # Papers:
 ## February
+February 23rd, 2018 [Lake et al 2018](https://www.nature.com/articles/nbt.4038) Integrative single-cell analysis of transcriptional and epigenetic states in the human adult brain [blame Jill]
+
+
 February 9th, 2018 [Combs et al 2017](http://onlinelibrary.wiley.com/doi/10.1111/mec.14437/abstract) Spatial population genomics of the brown rat (_Rattus norvegicus_) in New York City [blame Katie]
 
 February 2nd, 2018 [Kong et al 2018](http://science.sciencemag.org/content/359/6374/424.full) The nature of nurture: Effects of parental genotypes [blame Yoni]
