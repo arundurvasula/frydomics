@@ -8,9 +8,13 @@ We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html)
 We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics). Feel free to join or email me (firstname.lastname@gmail.com) for paper annoucements.
 
 # Papers:
+## March
+March 9th, 2018 [Danko et al 2018](https://www.nature.com/articles/s41559-017-0447-5) Dynamic evolution of regulatory element ensembles in primate CD4+ T cells [blame Arun]
+
+March 2nd, 2018 No journal club -- go to [UCLA Computational Genomics Winter Institute](http://computationalgenomics.bioinformatics.ucla.edu) instead.
+
 ## February
 February 23rd, 2018 [Lake et al 2018](https://www.nature.com/articles/nbt.4038) Integrative single-cell analysis of transcriptional and epigenetic states in the human adult brain [blame Jill]
-
 
 February 9th, 2018 [Combs et al 2017](http://onlinelibrary.wiley.com/doi/10.1111/mec.14437/abstract) Spatial population genomics of the brown rat (_Rattus norvegicus_) in New York City [blame Katie]
 
