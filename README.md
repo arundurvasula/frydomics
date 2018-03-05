@@ -79,7 +79,7 @@ June 2nd, 2017 [Knouse et al 2016.](http://genome.cshlp.org/content/26/3/376) As
 
 May 25th, 2017 [Mathieson et al 2015.](https://www.nature.com/nature/journal/v528/n7583/full/nature16152.html) Genome-wide patterns of selection in 230 ancient Eurasians [blame Arun] **Note: date change**
 
-May 19th, 2017 No journal club -- go to Brewin' Talks! [blame Catharine]
+May 19th, 2017 No journal club -- go to Brewin' Talks!
 
 May 12th, 2017 [Pala and Zappala et al 2017.](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3840.html) Population- and individual-specific regulatory variation in Sardinia [blame Arun]
 
