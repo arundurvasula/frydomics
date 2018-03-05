@@ -1,11 +1,14 @@
 # frydomics
-A journal club for -omicsy things @ UCLA. Send me a paper if you'd like to suggest one, otherwise I will choose. 
+A journal club for -omicsy things @ UCLA. Send me a paper if you'd like to suggest one, otherwise I will choose.
 
 We meet at [the Luskin Center Bar](http://luskinconferencecenter.ucla.edu/ucla-restaurant/) Fridays at 5:30 for beer and science. If you're reading this, feel free to stop by.
 
 We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html), please check there for information on the format. In short, no one presents the paper and we jump in as soon as the beer arrives.
 
 We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics). Feel free to join or email me (firstname.lastname@gmail.com) for paper annoucements.
+
+![alt text](./hist.png "")
+
 
 # Papers:
 ## March
@@ -55,7 +58,7 @@ August 4th, 2017 [Cortes and Dendrou et al 2017.](https://www.nature.com/ng/jour
 ## July
 No journal club -- go to [UCLA Computational Genomics Summer Institute](http://computationalgenomics.bioinformatics.ucla.edu) instead.
 
-## June 
+## June
 June 30th, 2017 [Hammerschlag et al 2017.](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3888.html) Genome-wide association analysis of insomnia complaints identifies risk genes and genetic overlap with psychiatric and metabolic traits [blame Albert]
 
 June 23rd, 2017 [Boyle et al 2017.](http://www.sciencedirect.com/science/article/pii/S0092867417306293) An Expanded View of Complex Traits: From Polygenic to Omnigenic [blame Catharine, James, Arun]
@@ -67,7 +70,7 @@ June 16th, 2017 [McLaughlin et al 2017.](http://www.nature.com/articles/ncomms14
 
 June 9th, 2017 [Glodzik et al 2017.](http://www.nature.com/ng/journal/v49/n3/abs/ng.3771.html) A somatic-mutational process recurrently duplicates germline susceptibility loci and tissue-specific super-enhancers in breast cancers [blame Mike]
 
-June 2nd, 2017 [Knouse et al 2016.](http://genome.cshlp.org/content/26/3/376) Assessment of megabase-scale somatic copy number variation using single cell sequencing [blame Daniel] 
+June 2nd, 2017 [Knouse et al 2016.](http://genome.cshlp.org/content/26/3/376) Assessment of megabase-scale somatic copy number variation using single cell sequencing [blame Daniel]
 
 ## May
 
