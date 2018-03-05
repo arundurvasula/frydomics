@@ -7,6 +7,8 @@ We are modeled after Jeff Ross-Ibarra's [REHAB](http://www.rilab.org/rehab.html)
 
 We have a mailing list [here](https://groups.google.com/forum/#!forum/frydomics). Feel free to join or email me (firstname.lastname@gmail.com) for paper annoucements.
 
+Here's some data on who's suggesting papers:
+
 <img src="hist.png" height="400" width="600" >
 
 # Papers:
