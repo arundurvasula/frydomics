@@ -13,6 +13,8 @@ Here's some data on who's suggesting papers:
 
 # Papers:
 ## March
+March 16th, 2018 [Alpert Sugden et al 2018](https://www.nature.com/articles/s41467-018-03100-7) Localization of adaptive variants in human genomes using averaged one-dependence estimation [blame Daniel]
+
 March 9th, 2018 [Danko et al 2018](https://www.nature.com/articles/s41559-017-0447-5) Dynamic evolution of regulatory element ensembles in primate CD4+ T cells [blame Arun]
 
 March 2nd, 2018 No journal club -- go to [UCLA Computational Genomics Winter Institute](http://computationalgenomics.bioinformatics.ucla.edu) instead.
