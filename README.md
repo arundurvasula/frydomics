@@ -12,8 +12,11 @@ Here's some data on who's suggesting papers:
 <img src="hist.png" height="400" width="600" >
 
 # Papers:
+
+## April
+April 6th, 2018 [Chen et al 2018](https://www.nature.com/articles/s41467-017-00901-0) The microbiota continuum along the female reproductive tract and its relation to uterine-related diseases [blame Katie]
+
 ## March
-March 23rd, 2018 [Chen et al 2018](https://www.nature.com/articles/s41467-017-00901-0) The microbiota continuum along the female reproductive tract and its relation to uterine-related diseases [blame Katie]
 
 March 16th, 2018 [Alpert Sugden et al 2018](https://www.nature.com/articles/s41467-018-03100-7) Localization of adaptive variants in human genomes using averaged one-dependence estimation [blame Daniel]
 
