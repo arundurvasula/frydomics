@@ -14,6 +14,8 @@ Here's some data on who's suggesting papers:
 # Papers:
 
 ## April
+April 27th, 2018 [Small et al 2018](https://www.nature.com/articles/s41588-018-0088-x) Regulatory variants at KLF14 influence type 2 diabetes risk via a female-specific effect on adipocyte size and body composition [blame Katie]
+
 April 20th, 2018 [Kremling et al 2018](https://www.nature.com/articles/nature25966) Dysregulation of expression correlates with rare-allele burden and fitness loss in maize [blame Arun]
 
 April 13th, 2018 [Chen et al 2018](https://www.nature.com/articles/s41467-017-00901-0) The microbiota continuum along the female reproductive tract and its relation to uterine-related diseases [blame Katie]
