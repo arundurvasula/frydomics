@@ -13,6 +13,11 @@ Here's some data on who's suggesting papers:
 
 # Papers:
 
+## May
+May 11th, 2018 [Matz et al 2018](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007220) Potential and limits for rapid genetic adaptation to warming in a Great Barrier Reef coral [blame Katie]
+
+May 4th, 2018 [Veeramah et al 2018](http://www.pnas.org/content/pnas/early/2018/03/06/1719880115.full.pdf) Population genomic analysis of elongated skulls reveals extensive female-biased immigration in Early Medieval Bavaria [blame Katie]
+
 ## April
 April 27th, 2018 [Small et al 2018](https://www.nature.com/articles/s41588-018-0088-x) Regulatory variants at KLF14 influence type 2 diabetes risk via a female-specific effect on adipocyte size and body composition [blame Katie]
 
