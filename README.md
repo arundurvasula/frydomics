@@ -13,6 +13,14 @@ Here's some data on who's suggesting papers:
 
 # Papers:
 
+## January
+
+January 17th, 2019
+
+January 31st, 2019
+
+## 2018
+
 ## May
 May 11th, 2018 [Matz et al 2018](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007220) Potential and limits for rapid genetic adaptation to warming in a Great Barrier Reef coral [blame Katie]
 
@@ -44,6 +52,8 @@ February 2nd, 2018 [Kong et al 2018](http://science.sciencemag.org/content/359/6
 January 26th, 2018 [Hernandez et al 2017](https://www.biorxiv.org/content/early/2017/12/15/219238) Singleton Variants Dominate the Genetic Architecture of Human Gene Expression [blame Arun]
 
 January 12th, 2018 [Mumbach, Satpathy, Boyle and Dai et al 2017](https://www.nature.com/articles/ng.3963) Enhancer connectome in primary human cells identifies target genes of disease-associated DNA elements [blame Mike]
+
+## 2017
 
 ## December
 December 8th, 2017 [Houshdaran et al 2016](https://academic.oup.com/biolreprod/article/95/5/93,%201-16/2883425) Aberrant Endometrial DNA Methylome and Associated Gene Expression in Women with Endometriosis [blame Katie]
