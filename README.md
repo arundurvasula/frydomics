@@ -15,7 +15,7 @@ Here's some data on who's suggesting papers:
 
 ## January
 
-January 17th, 2019
+January 17th, 2019 [Larsson et al 2019](https://www.nature.com/articles/s41586-018-0836-1) Genomic encoding of transcriptional burst kinetics [blame Katie]
 
 January 31st, 2019
 
