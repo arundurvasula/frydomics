@@ -13,11 +13,14 @@ Here's some data on who's suggesting papers:
 
 # Papers:
 
+## February
+
+February 28th, 2019 [Castel et al 2018](https://www.nature.com/articles/s41588-018-0192-y) Modified penetrance of coding variants by cis-regulatory variation contributes to disease risk [blame Yoni]
+
 ## January
 
 January 17th, 2019 [Larsson et al 2019](https://www.nature.com/articles/s41586-018-0836-1) Genomic encoding of transcriptional burst kinetics [blame Katie]
 
-January 31st, 2019
 
 ## 2018
 
