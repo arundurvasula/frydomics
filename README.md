@@ -13,6 +13,10 @@ Here's some data on who's suggesting papers:
 
 # Papers:
 
+## March
+
+March 21st, 2019 [Li et al 2018](https://www.sciencedirect.com/science/article/pii/S0092867418309164) Decoding the genomics of abdominal aortic aneurysm [blame Maria]
+
 ## February
 
 February 28th, 2019 [Castel et al 2018](https://www.nature.com/articles/s41588-018-0192-y) Modified penetrance of coding variants by cis-regulatory variation contributes to disease risk [blame Yoni]
