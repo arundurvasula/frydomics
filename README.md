@@ -13,6 +13,12 @@ Here's some data on who's suggesting papers:
 
 # Papers:
 
+## April
+
+April 18th, 2019 [Wainschtein et al preprint 2019](https://www.biorxiv.org/content/10.1101/588020v1) Recovery of trait heritability from whole genome sequence data [blame James]
+
+April 4th, 2019 [Hinch et al 2019](http://science.sciencemag.org/content/363/6433/eaau8861) Factors influencing meiotic recombination revealed by whole-genome sequencing of single sperm [blame Adriana] 
+
 ## March
 
 March 21st, 2019 [Li et al 2018](https://www.sciencedirect.com/science/article/pii/S0092867418309164) Decoding the genomics of abdominal aortic aneurysm [blame Maria]
