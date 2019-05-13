@@ -13,6 +13,10 @@ Here's some data on who's suggesting papers:
 
 # Papers:
 
+## May
+
+May 16th, 2019 [Border et al 2019](https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.2018.18070881) No Support for Historical Candidate Gene or Candidate Gene-by-Interaction Hypotheses for Major Depression Across Multiple Large Samples [blame Katie]
+
 ## April
 
 April 18th, 2019 [Wainschtein et al preprint 2019](https://www.biorxiv.org/content/10.1101/588020v1) Recovery of trait heritability from whole genome sequence data [blame James]
