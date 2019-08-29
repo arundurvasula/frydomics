@@ -13,6 +13,10 @@ Here's some data on who's suggesting papers:
 
 # Papers:
 
+## September
+
+September 5th, 2019 [Stuart et al 2019](https://www.cell.com/cell/pdf/S0092-8674(19)30559-8.pdf) Comprehensive integration of single-cell data [blame Eric]
+
 ## May
 
 May 16th, 2019 [Border et al 2019](https://ajp.psychiatryonline.org/doi/full/10.1176/appi.ajp.2018.18070881) No Support for Historical Candidate Gene or Candidate Gene-by-Interaction Hypotheses for Major Depression Across Multiple Large Samples [blame Katie]
